@@ -1,4 +1,5 @@
 package com.example.web_view_uygulamasi;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

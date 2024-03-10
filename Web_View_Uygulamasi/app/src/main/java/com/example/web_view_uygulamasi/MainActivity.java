@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         buttonOpenWebView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // WebViewActivity'yi başlat
                 Intent intent = new Intent(MainActivity.this, MainActivity2.class);
                 startActivity(intent);
             }
